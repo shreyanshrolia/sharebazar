@@ -1,0 +1,53 @@
+body{
+  text-align: center;
+  background-color: #e9e9e9;
+}
+H2{
+  color:#009ddc;
+}
+h3{
+  margin: 10%;
+  font-family: sans-serif;
+  font-weight: bold;
+  color:#009ddc;
+}
+img{
+  width: 8%;
+  padding: 10px;
+}
+#pcard{
+  width: 60%;
+  transform: rotate(0);
+}
+.bgimg{
+  background-image: url("images/3860.jpg");
+  background-size:auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.title{
+  padding-top: 15%;
+}
+.first-word{
+  color: black;
+  font-size: 3rem;
+  line-height: 2;
+  text-shadow: 2px 2px 5px #a35454;
+}
+.second-word{
+  color:white;
+  border-color: black;
+  font-size: 3rem;
+  line-height: 2;
+  text-shadow: 2px 2px 5px #a35454;
+}
+.data{
+  padding: 5%;
+}
+.start{
+  padding: 5%;
+}
+.bottom{
+  margin-top: 150px;
+  text-align: left;
+}
